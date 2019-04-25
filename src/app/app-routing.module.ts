@@ -4,7 +4,6 @@ import { TypedComponent } from './typed/typed.component';
 import { DragComponent } from './drag/drag.component';
 import { AppComponent } from './app.component';
 
-
 const routes: Routes = [
   {
     path: '',
