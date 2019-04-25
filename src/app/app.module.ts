@@ -8,6 +8,8 @@ import { TypedComponent } from './typed/typed.component';
 import { MatListModule } from "@angular/material/list";
 import { DragComponent } from './drag/drag.component';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
